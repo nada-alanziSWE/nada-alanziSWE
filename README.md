@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nada Alanzi 👋
 
-<!--
-**nada-alanziSWE/nada-alanziSWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Al Yamamah University
 
-Here are some ideas to get you started:
+## About Me
+I'm a Software Engineering student interested in UX/UI Design, Requirements Engineering, and Systems Analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+- UX/UI Design
+- Requirements Engineering
+- Systems Analysis
+- Software Documentation
+
+## Tools
+- Figma
+- Software Ideas Modeler
+
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/nada-alanzi-777113417)
